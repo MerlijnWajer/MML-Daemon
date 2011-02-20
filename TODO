@@ -1,0 +1,7 @@
+[ ] Complete protocol
+[ ] Start script
+[ ] Pause script
+[ ] Stop script
+[ ] Multiplex script output
+[ ] Write library in FPC/C for other clients to use (like libX11)
+[ ] Think of a proper name. (MD, really?)
